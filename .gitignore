@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# production
+.next/
+out/
+dist/
+
+# misc
+.DS_Store
+*.log
+
+# vscode / idea
+.vscode/
+.idea/
